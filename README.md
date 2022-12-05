@@ -1,3 +1,3 @@
-# helm-chart
+# helm-chart Repository
+Margarita helm-chart
 
-koreserve helm-chart
