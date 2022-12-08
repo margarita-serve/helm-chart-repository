@@ -3,7 +3,7 @@ entries:
   margarita-serve:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-12-08T13:16:00.987744+09:00"
+    created: "2022-12-08T14:19:25.578358+09:00"
     dependencies:
     - condition: tobs.enabled
       name: tobs
@@ -62,10 +62,10 @@ entries:
       repository: file://./charts/frontend
       version: 0.1.0
     description: A Helm chart for Kubernetes
-    digest: daf245872d8b3a67e2641077b15d5b6fcb8d261ea20ce1c5423aab617e1ba54b
+    digest: 8f162d1f9458819ebe7d4536e4cf9e8a42e5cb1df4726dce7e1feae9bfece24e
     name: margarita-serve
     type: application
     urls:
     - margarita-serve-0.1.1.tgz
     version: 0.1.1
-generated: "2022-12-08T13:16:00.923983+09:00"
+generated: "2022-12-08T14:19:25.50023+09:00"
